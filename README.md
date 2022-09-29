@@ -1,6 +1,6 @@
 #Hi 😃 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%GitHub!;Welcome%20visitors!&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20GitHub!;Welcome%20visitors!&font=Roboto" />
 
 #Welcome to subscribe my other blogs 🌟
 <p>
