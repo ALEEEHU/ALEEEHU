@@ -1,7 +1,6 @@
-# Hi 😃
-# Welcome to My Github Homepage!
+# Hi 😃 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to My Github Homepage!&font=Roboto" />
 
 <p>
 <a href="https://blog.csdn.net/qq_45776432"><img src="https://img.shields.io/static/v1?label=Blog1&message=CSDN&color=red"/></a>
