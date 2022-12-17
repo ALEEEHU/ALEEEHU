@@ -8,7 +8,7 @@
 <a href="https://juejin.cn/user/1416638117190264"><img src="https://img.shields.io/static/v1?label=Blog2&message=juejin&color=cyan"/></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ALEEEHU&count_private=true&show_icons=true&layout=compact&hide=prs&hide_title=true" height="120"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEEEHU&layout=compact&exclude_repo=HDL-ZJU&hide_title=true&langs_count=4" height="120">
+<img src="https://github-readme-stats.vercel.app/api?username=ALEEEHU&count_private=true&show_icons=true&layout=compact&hide=prs&hide_title=true" height="120"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEEEHU&layout=compact&hide_title=true&langs_count=4" height="120">
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ALEEEHU)
 
