@@ -10,7 +10,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ALEEEHU&count_private=true&show_icons=true&layout=compact&hide=prs&hide_title=true" height="100"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEEEHU&layout=compact&hide_title=true&langs_count=4" height="100">
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ALEEEHU)
+![](https://komarev.com/ghpvc/?username=ALEEEHU&label=VISITORS)
 
 
 
