@@ -1,6 +1,6 @@
 # Hi 👋 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Yuqi%20HU!;Welcome%20visitors!&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Yuqi%20Hu!;Welcome%20visitors!&font=Roboto" />
 
 **Welcome to subscribe my other blogs** 🌟
 <p>
