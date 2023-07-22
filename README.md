@@ -1,17 +1,14 @@
-# Hi 👋 
+# Hi 👋 ![](https://komarev.com/ghpvc/?username=ALEEEHU&label=VISITORS)
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20visitors!;I%20am%20Yuqi%20Hu!&font=Roboto" />
 
-**Welcome to subscribe my other blogs** 🌟
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20visitors!;I%20am%20Yuqi%20HU!&font=Roboto" />
+
+**Welcome to subscribe to my other blogs** 🌟
 <p>
 <a href="https://blog.csdn.net/qq_45776432"><img src="https://img.shields.io/static/v1?label=Blog1&message=CSDN&color=red"/></a>
 <a href="https://juejin.cn/user/1416638117190264"><img src="https://img.shields.io/static/v1?label=Blog2&message=juejin&color=cyan"/></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ALEEEHU&theme=buefy&count_private=true&show_icons=true&hide_title=true&&hide_border=true&layout=compact&hide=prs" height="100"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEEEHU&theme=buefy&hide_border=true&layout=compact&langs_count=4" height="100">
-
-
-![](https://komarev.com/ghpvc/?username=ALEEEHU&label=VISITORS)
 
 
 
