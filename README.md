@@ -11,8 +11,10 @@
 
 - 👋 Hi there, this is Yuqi Hu. I am a M.Phil student at HKUST(GZ).
 - 👯 I am open to collaboration, feel free to contact me via Email (👈)!
-- ⚡ Please check my [homepage](https://jd92.wang) for my CV and latest update!
 - 🌟 Welcome to subscribe to my other blogs ([CSDN](https://blog.csdn.net/qq_45776432), [juejin](https://juejin.cn/user/1416638117190264)). 
+⚡  **Open-source Contribution**: I have **led** or **contributed as a core member** to [more than 10 ML open-source initiatives](https://github.com/yzhao062), 
+receiving 15,000 GitHub stars (top 0.002%: [ranked 800 out of 40M GitHub users](https://gitstar-ranking.com/yzhao062)) and >20,000,000 total downloads.
+
 
 <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALEEEHU&theme=transparent" width="60%" >
