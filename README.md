@@ -15,7 +15,7 @@
 - 🌟 Welcome to subscribe to my other blogs ([CSDN](https://blog.csdn.net/qq_45776432), [juejin](https://juejin.cn/user/1416638117190264)).
 
 
-<h2 align="center">GitHub Records <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center">GitHub Stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="center">
   <img src= "https://github-readme-streak-stats.herokuapp.com/?user=ALEEEHU&show_icons=true" width="45%">
