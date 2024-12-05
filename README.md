@@ -18,8 +18,7 @@
 <h2 align="center">GitHub Stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="center">
-  <img src= "https://github-readme-streak-stats.herokuapp.com/?user=ALEEEHU&show_icons=true" width="45%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALEEEHU&theme=transparent" width="53%" >
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALEEEHU&theme=transparent" width="60%" >
 </p>
 
 
