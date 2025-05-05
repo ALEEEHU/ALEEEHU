@@ -10,7 +10,7 @@
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> About me: 
 
-- 👋 Hi there, this is Yuqi HU. I am a second-year M.Phil student at HKUST(GZ), graduating in June 2025.
+- 👋 Hi there, this is Yuqi HU. I am a second-year M.Phil student at HKUST(GZ).
 - 🤝🏻 I am open to collaboration, feel free to contact me via Email (📧)!
 - 🌟 Welcome to subscribe to my other blogs ([CSDN](https://blog.csdn.net/qq_45776432), [Medium](https://medium.com/@hyqale1024), [juejin](https://juejin.cn/user/1416638117190264)).
 
