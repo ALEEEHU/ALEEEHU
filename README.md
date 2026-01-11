@@ -1,13 +1,18 @@
 
+
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20visitors!;I%20am%20Yuqi%20HU!&font=Roboto" />
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
+
 <h1 align="center"> <img src="https://i.giphy.com/YqFACC5oHsyy3l31k1.gif" width="40" /> Welcome to My World! </h1>
+
 
 <p align="center">
   <i>Sharing knowledge and ideas while building a better future, together.</i>
 </p>
 
 <!----
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20visitors!;I%20am%20Yuqi%20HU!&font=Roboto" />
-
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> About me: 
 - 👋 Hi there, this is Yuqi HU. I am a second-year M.Phil student at HKUST(GZ).
 - 🤝🏻 I am open to collaboration, feel free to contact me via Email (📧)!
@@ -20,6 +25,12 @@
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALEEEHU&theme=transparent" width="60%" >
 </p>
+
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+
 
 
 <p align="center">
