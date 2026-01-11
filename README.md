@@ -1,7 +1,7 @@
 
 
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20visitors!;I%20am%20Yuqi%20HU!&font=Roboto" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20visitors!;I%20am%20Yuqi%20HU!&font=Roboto" /> </p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
 
@@ -10,6 +10,10 @@
 
 <p align="center">
   <i>Sharing knowledge and ideas while building a better future, together.</i>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ALEEEHU&color=grey" alt="Visitor Count">
 </p>
 
 <!----
@@ -30,12 +34,6 @@
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ALEEEHU&color=grey" alt="Visitor Count">
-</p>
 
 
 
