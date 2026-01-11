@@ -23,7 +23,7 @@
 
 <h2 align="center">GitHub Stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ALEEEHU&theme=gradient" width="45%" >  ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ALEEEHU\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&rank_icon=github)
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ALEEEHU&theme=gradient" width="49%" >  ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ALEEEHU\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&rank_icon=github)
 
 
 
