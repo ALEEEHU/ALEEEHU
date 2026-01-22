@@ -16,14 +16,18 @@
   <i>Sharing knowledge and ideas while building a better future, together.</i>
 </p>
 
+<p align="center"> <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ALEEEHU&theme=gradient"> </p>
+
+<h2 align="center">GitHub Stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALEEEHU&theme=transparent" width="60%" >
+</p>
+
 <p align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">  <img src="https://komarev.com/ghpvc/?username=ALEEEHU&color=grey" alt="Visitor Count">
 </p>
 
-
-<h2 align="center">GitHub Stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-<p align="center"> <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ALEEEHU&theme=gradient"> </p>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
