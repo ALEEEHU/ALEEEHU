@@ -8,14 +8,16 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20visitors!;I%20am%20Yuqi%20HU!&font=Roboto" />
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
+
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> About me: 
 - 👋 Hi there, this is Yuqi HU. 
 - 🤝🏻 I am open to collaboration, feel free to contact me via Email (📧)!
 - 🌟 Welcome to subscribe to my other blogs ([CSDN](https://blog.csdn.net/qq_45776432), [Medium](https://medium.com/@hyqale1024), [juejin](https://juejin.cn/user/1416638117190264)).
 
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
 
+<p align="center"> <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ALEEEHU&theme=gradient"> </p>
 
 <h2 align="center">GitHub Stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
