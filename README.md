@@ -17,7 +17,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
 
-<p align="center"> <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ALEEEHU&theme=gradient"> </p>
 
 <h2 align="center">GitHub Stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
